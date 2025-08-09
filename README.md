@@ -1,6 +1,14 @@
 # eventzone
 
-aplikasi untuk mengelola event sebagai project uas
+aplikasi untuk mengelola event dengan dart flutter
+
+## Dokumentasi Aplikasi
+
+![1a](dokumentasipic/1a.png)
+![2a](dokumentasipic/2a.png)
+![3a](dokumentasipic/3a.png)
+![4a](dokumentasipic/4a.png)
+![5a](dokumentasipic/5a.png)
 
 ## Getting Started
 
